@@ -1,0 +1,46 @@
+.row
+{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.col
+{
+    padding-top: 30px;
+}
+
+p{
+    margin-bottom: 5px;
+}
+
+#name1{
+    margin-bottom: 2% ;
+    text-align: center;
+}
+#name2{
+    text-align: center;
+}
+.btn1
+{
+    text-align: center;
+}
+#but, #but1
+{
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 0%;
+
+}
+
+#rw{
+    margin-top: 50px;
+}
+
+.to{
+    padding-top: 0;
+}
